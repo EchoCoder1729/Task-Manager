@@ -1,6 +1,8 @@
 # Demo Task List Website
 This is a dynamic website created to allow the user to create a to-do list and make swift changes to the persistent list.<br>
 
+![demo](https://github.com/EchoCoder1729/Task-Manager/blob/main/Task%20Manager.gif)
+
 <h3>Features</h3>
 <ul>
   <li>Allows users to submit their tasks and save them on the website</li>
